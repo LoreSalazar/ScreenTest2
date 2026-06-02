@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=[0] Sheet1.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=[0] Sheet1.SchDoc|Designator=U_[1] ESP32-S3|SchDesignator=U_[1] ESP32-S3|FileName=[1] ESP32-S3.SchDoc|SheetNumber=01|SymbolType=Normal|RawFileName=[1] ESP32-S3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=[0] Sheet1.SchDoc|Designator=U_[2] Led_Driver|SchDesignator=U_[2] Led_Driver|FileName=[2] Led_Driver.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=[2] Led_Driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
