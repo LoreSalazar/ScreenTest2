@@ -1,0 +1,22 @@
+Added Component: Designator=J1(SAMESKY_UJ20-C-H-G-SMT-1-P16-TR)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/UJ20-C-H-G-SMT-1-P16-TR/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "UJ20-C-H-G-SMT-1-P16-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/UJ20-C-H-G-SMT-1-P16-TR/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-A1_B12
+Added Pin To Net: NetName=NetC15_2 Pin=J1-A4_B9
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=USB_P Pin=J1-A6
+Added Pin To Net: NetName=USB_N Pin=J1-A7
+Added Pin To Net: NetName=GND Pin=J1-B1_A12
+Added Pin To Net: NetName=NetC15_2 Pin=J1-B4_A9
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=USB_P Pin=J1-B6
+Added Pin To Net: NetName=USB_N Pin=J1-B7
+Added Pin To Net: NetName=GND Pin=J1-SH1
+Added Pin To Net: NetName=GND Pin=J1-SH2
+Added Pin To Net: NetName=GND Pin=J1-SH3
+Added Pin To Net: NetName=GND Pin=J1-SH4
+Added Member To Class: ClassName=U_[1] ESP32-S3 Member=Component J1 UJ20-C-H-G-SMT-1-P16-TR

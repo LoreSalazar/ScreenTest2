@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=J4 Old Footprint=TE_2-1445098-2 New Footprint=214450982
+Change component parameters: Designator = "J4" ("J4"); Footprint = "TE_2-1445098-2"; UniqueID = "\VWYNQQUD\FDJKJTSK" ("\VWYNQQUD\FDJKJTSK")
+Change component parameters (AddParameter): Name = ""; Value = "Configuration Features: Number of Rows 1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=micro-mate-n-lok-connector-qrg&DocType=Data%20Sheet&DocLang=English&PartCntxt=2-1445098-2&DocFormat=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "5.67mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2-1445098-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "571-2-1445098-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/2-1445098-2?qs=Eu63EZxBwKKSsdV7%2Fa6T1Q%3D%3D"; VariantName = "[No Variations]"
+Added Room: Name=U_[1] ESP32-S3
+Added Room: Name=U_[3] Voltage Converters
+Added Room: Name=U_[4] Temperature_Sensor

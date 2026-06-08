@@ -1,0 +1,42 @@
+Added Component: Designator=J2(AMPHENOL_SFV6R-2STBE1HLF)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SFV6R-2STBE1HLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(AMPHENOL_62684-402100ALF)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/62684-402100ALF/Amphenol+FCI/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "62684-402100ALF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/62684-402100ALF/Amphenol+FCI/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=touch_RST Pin=J2-1
+Added Pin To Net: NetName=VDD3P3 Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Pin To Net: NetName=GND Pin=J3-05
+Added Pin To Net: NetName=VDD3P3 Pin=J3-06
+Added Pin To Net: NetName=VDD3P3 Pin=J3-07
+Added Pin To Net: NetName=NetJ3_08 Pin=J3-08
+Added Pin To Net: NetName=NetJ3_09 Pin=J3-09
+Added Pin To Net: NetName=NetJ3_10 Pin=J3-10
+Added Pin To Net: NetName=NetJ3_11 Pin=J3-11
+Added Pin To Net: NetName=NetJ3_12 Pin=J3-12
+Added Pin To Net: NetName=NetJ3_13 Pin=J3-13
+Added Pin To Net: NetName=TFT/RESET Pin=J3-15
+Added Pin To Net: NetName=GND Pin=J3-16
+Added Pin To Net: NetName=LED_A Pin=J3-33
+Added Pin To Net: NetName=LED_K Pin=J3-34
+Added Pin To Net: NetName=LED_K Pin=J3-35
+Added Pin To Net: NetName=LED_K Pin=J3-36
+Added Pin To Net: NetName=NetJ3_37 Pin=J3-37
+Added Pin To Net: NetName=NetJ3_38 Pin=J3-38
+Added Pin To Net: NetName=NetJ3_39 Pin=J3-39
+Added Pin To Net: NetName=GND Pin=J3-S1
+Added Pin To Net: NetName=GND Pin=J3-S2
+Added Member To Class: ClassName=U_[2] Led_Driver Member=Component J2 SFV6R-2STBE1HLF
+Added Member To Class: ClassName=U_[2] Led_Driver Member=Component J3 62684-402100ALF

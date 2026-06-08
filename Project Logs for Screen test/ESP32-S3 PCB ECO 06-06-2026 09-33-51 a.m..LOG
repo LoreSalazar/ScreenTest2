@@ -1,0 +1,4 @@
+Change Component Description : Designator=J3 Old Description=Conn Rect FPC/FFC 40Cnt SMT OPUSeries ZIF 0.5mmPitch RtAngle New Description=Conn Rect FPC/FFC 40Cnt SMT OPUSeries ZIF 0.5mmPitch RtAngle | Amphenol FCI (Amphenol CS) 62684-402100ALF
+Added Room: Name=U_[1] ESP32-S3
+Added Room: Name=U_[4] Temperature_Sensor
+Added Class: Name=90_DIFF_USB
