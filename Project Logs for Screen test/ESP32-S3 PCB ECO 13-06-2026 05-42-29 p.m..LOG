@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=VIN Pin=C30-2
+Added Room: Name=U_[1] ESP32-S3
+Added Room: Name=U_[3] Voltage Converters
+Added Room: Name=U_[4] Temperature_Sensor

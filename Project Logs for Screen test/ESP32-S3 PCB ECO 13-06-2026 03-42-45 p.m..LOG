@@ -1,0 +1,120 @@
+Removed Pin From Net: NetName=FB Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=+5V Pin=C24-2
+Removed Pin From Net: NetName=+12V Pin=C26-2
+Removed Pin From Net: NetName=+5V Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=FB Pin=R26-1
+Removed Pin From Net: NetName=GND Pin=R27-1
+Removed Pin From Net: NetName=FB Pin=R27-2
+Removed Pin From Net: NetName=VDD3P3 Pin=R28-1
+Removed Pin From Net: NetName=VDD3P3 Pin=R29-2
+Removed Pin From Net: NetName=GND Pin=R30-1
+Removed Pin From Net: NetName=+12V Pin=U5-1
+Removed Pin From Net: NetName=GND Pin=U5-3
+Removed Pin From Net: NetName=NetC22_1 Pin=U5-4
+Removed Pin From Net: NetName=FB Pin=U5-6
+Removed Pin From Net: NetName=GND Pin=U6-1
+Removed Pin From Net: NetName=+5V Pin=U6-3
+Removed Pin From Net: NetName=+5V Pin=U6-5
+Removed Pin From Net: NetName=VDD3P3 Pin=U6-8
+Removed Pin From Net: NetName=VDD3P3 Pin=U6-9
+Removed Pin From Net: NetName=GND Pin=U6-10
+Removed Pin From Net: NetName=GND Pin=U6-11
+Removed Pin From Net: NetName=GND Pin=U6-17
+Removed Pin From Net: NetName=GND Pin=U6-20
+Removed Pin From Net: NetName=GND Pin=U6-21
+Removed Member From Class: ClassName=U_[3] Voltage Converters Member=R29
+Removed Member From Class: ClassName=U_[3] Voltage Converters Member=R30
+Change Component Footprint: Designator=C28 Old Footprint=CAP_593D-E_VSS New Footprint=CAPACITOR 0805
+Change Component Footprint: Designator=C24 Old Footprint=CAP_C4532X7R1C336M250KC New Footprint=CAP_EEEFP1E100AR
+Change Component Footprint: Designator=C27 Old Footprint=CAP_UCB_4X7_NCH New Footprint=Capacitor 0402
+Change Component Footprint: Designator=C22 Old Footprint=Capacitor 0402 New Footprint=Capacitor 0603
+Change Component Footprint: Designator=C26 Old Footprint=Capacitor 0402 New Footprint=CAPACITOR 0805
+Change Component Footprint: Designator=C23 Old Footprint=Capacitor 0603 New Footprint=CAP_EEEFPC220UAR
+Change Component Footprint: Designator=L4 Old Footprint=IND_ASPI-8040S-100M-T New Footprint=INDC2520X120N
+Change Component Footprint: Designator=U6 Old Footprint=PWP0020C_L New Footprint=SON65P200X200X80-7N
+Change Component Footprint: Designator=U5 Old Footprint=SOTFL50P160X60-6N New Footprint=SOT95P280X100-6N
+Change Component Comment : Designator=C25 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=R27 Old Comment=13.3K New Comment=50k
+Change Component Comment : Designator=R25 Old Comment=49.9 New Comment=52.3k
+Change Component Comment : Designator=C23 Old Comment=75pF New Comment=EEEFPC220UAR
+Change Component Comment : Designator=R26 Old Comment=100K New Comment=10K
+Change Component Comment : Designator=C26 Old Comment=100nF New Comment=2.2uF
+Change Component Comment : Designator=R28 Old Comment=250k New Comment=10K
+Change Component Comment : Designator=C28 Old Comment=593D476X9025E2TE3 New Comment=2.2uF
+Change Component Comment : Designator=L4 Old Comment=ASPI-8040S-100M-T New Comment=MAMK2520T3R3M
+Change Component Comment : Designator=C24 Old Comment=C4532X7R1C336M250KC New Comment=EEEFP1E100AR
+Change Component Comment : Designator=U6 Old Comment=TPS75233QPWPREP New Comment=TPS74601PBDRVR
+Change Component Comment : Designator=U5 Old Comment=TPS543021DRLR New Comment=AP62150WU-7
+Change Component Comment : Designator=C27 Old Comment=UCB1VR22MCL1GS New Comment=100nF
+Change component parameters: Designator = "L4" ("L4"); Footprint = "IND_ASPI-8040S-100M-T"; UniqueID = "\VWYNQQUD\QICRQPSB" ("\VWYNQQUD\QICRQPSB")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MAMK2520T3R3M/Taiyo+Yuden/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MAMK2520T3R3M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2520 Taiyo Yuden"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MAMK2520T3R3M/Taiyo+Yuden/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "CAP_UCB_4X7_NCH"; UniqueID = "\VWYNQQUD\OCHLGJZJ" ("\VWYNQQUD\OCHLGJZJ")
+Change component parameters: Designator = "C28" ("C28"); Footprint = "CAP_593D-E_VSS"; UniqueID = "\VWYNQQUD\QZRTAFCI" ("\VWYNQQUD\QZRTAFCI")
+Change component parameters: Designator = "U5" ("U5"); Footprint = "SOTFL50P160X60-6N"; UniqueID = "\VWYNQQUD\GVAUUXCS" ("\VWYNQQUD\GVAUUXCS")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com//assets/Datasheets/AP62150.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AP62150WU-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "621-AP62150WU-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP62150WU-7?qs=yqaQSyyJnNgGPHe5Vg29cg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "CAP_C4532X7R1C336M250KC"; UniqueID = "\VWYNQQUD\FBBBNBPV" ("\VWYNQQUD\FBBBNBPV")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEE-FP1E100AR/Panasonic%20Electronic%20Components/view-part/2301717/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic Electronic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "EEE-FP1E100AR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EEE-FP1E100AR/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEE-FP1E100AR/Panasonic%20Electronic%20Components/view-part/2301717/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "Capacitor 0603"; UniqueID = "\VWYNQQUD\LXYADQUT" ("\VWYNQQUD\LXYADQUT")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEEFPC220UAR/Panasonic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "PCE4529TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "EEEFPC220UAR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EEEFPC220UAR/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEEFPC220UAR/Panasonic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "PWP0020C_L"; UniqueID = "\VWYNQQUD\AKAMLHOI" ("\VWYNQQUD\AKAMLHOI")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/TPS746"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS74601PBDRVR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-TPS74601PBDRVR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS74601PBDRVR?qs=PqoDHHvF64%252B93w4aKhWy6Q%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=+12V Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=+5V Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=+5V Pin=C27-2
+Added Pin To Net: NetName=FB Pin=R25-1
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=FB Pin=R26-2
+Added Pin To Net: NetName=FB Pin=R27-1
+Added Pin To Net: NetName=VDD3P3 Pin=R27-2
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=FB Pin=R28-2
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=+12V Pin=U5-3
+Added Pin To Net: NetName=FB Pin=U5-4
+Added Pin To Net: NetName=+12V Pin=U5-5
+Added Pin To Net: NetName=NetC22_1 Pin=U5-6
+Added Pin To Net: NetName=VDD3P3 Pin=U6-1
+Added Pin To Net: NetName=FB Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=+5V Pin=U6-6
+Added Pin To Net: NetName=GND Pin=U6-7
+Change Net Name : Old Net Name=+12V New Net Name=VIN
+Added Room: Name=U_[1] ESP32-S3
+Added Room: Name=U_[3] Voltage Converters
+Added Room: Name=U_[4] Temperature_Sensor

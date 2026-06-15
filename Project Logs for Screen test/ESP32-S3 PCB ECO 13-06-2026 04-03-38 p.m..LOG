@@ -1,0 +1,7 @@
+Added Component: Designator=C30(Capacitor 0402)
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=VIN Pin=C30-2
+Added Member To Class: ClassName=U_[3] Voltage Converters Member=Component C30 100nF
+Added Room: Name=U_[1] ESP32-S3
+Added Room: Name=U_[3] Voltage Converters
+Added Room: Name=U_[4] Temperature_Sensor

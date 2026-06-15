@@ -344,23 +344,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YKUCLOSK
 
 [Document19]
-DocumentPath=Screen test.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
 DocumentPath=Lib\Sensor de temperatura\SHT31-DIS-B2.5KS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNGRNFAD
 
-[Document21]
+[Document20]
 DocumentPath=Lib\Sensor de temperatura\SHT31-DIS-B2.5KS.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWXLYXVM
 
-[Document22]
+[Document21]
 DocumentPath=[3] Voltage Converters.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KBGCQNVU
 
-[Document23]
+[Document22]
 DocumentPath=Lib\Buck\SOTFL50P160X60-6N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACOZDMPN
 
-[Document24]
+[Document23]
 DocumentPath=Lib\Buck\TPS543021DRLR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CAKPRFLR
 
-[Document25]
+[Document24]
 DocumentPath=Lib\LDO 5-3.3V\TPS75233QPWPREP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BRGBURTF
 
-[Document26]
+[Document25]
 DocumentPath=Lib\LDO 5-3.3V\TPS75233QPWPREP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMHROXHE
 
-[Document27]
+[Document26]
 DocumentPath=Lib\Cap 0.22uF\UCB1VR22MCL1GS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBFVERBE
 
-[Document28]
+[Document27]
 DocumentPath=Lib\Cap 0.22uF\UCB1VR22MCL1GS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FJDNXLXN
 
-[Document29]
+[Document28]
 DocumentPath=Lib\Cap 47uF\593D476X9025E2TE3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWTQQJRX
 
-[Document30]
+[Document29]
 DocumentPath=Lib\Cap 47uF\593D476X9025E2TE3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHWNSPLL
 
-[Document31]
+[Document30]
 DocumentPath=[4] Temperature_Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XMWDFGVV
 
-[Document32]
+[Document31]
 DocumentPath=Lib\Temperature Sensor\SHT40-AD1B-R2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNKDBVUE
 
-[Document33]
+[Document32]
 DocumentPath=Lib\Temperature Sensor\SHT40-AD1B-R2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNULXLFJ
 
-[Document34]
+[Document33]
 DocumentPath=ESP32-S3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GOKPAVGM
 
-[Document35]
+[Document34]
 DocumentPath=Lib\Connector 2pos\214450982.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOIYSEZD
 
-[Document36]
+[Document35]
 DocumentPath=Lib\Connector 2pos\2-1445098-2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -648,6 +631,74 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AIBOWFCJ
+
+[Document36]
+DocumentPath=Lib\Buck 12V 1.5A\SOT95P280X100-6N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BYSBGYMS
+
+[Document37]
+DocumentPath=Lib\Buck 12V 1.5A\AP62150WU-7.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BXKVRVMY
+
+[Document38]
+DocumentPath=Lib\TPS74601PBDRVR\SON65P200X200X80-7N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AFKPMFXX
+
+[Document39]
+DocumentPath=Lib\TPS74601PBDRVR\TPS74601PBDRVR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BQWZLEJG
 
 [Configuration1]
 Name=Sources
@@ -1656,6 +1707,7 @@ Net2=NetName=+5V|NetColor=$0000BE00
 Net3=NetName=3V3|NetColor=clYellow
 Net4=NetName=C_out|NetColor=$0000BE00
 Net5=NetName=VDD3P3|NetColor=clYellow
+Net6=NetName=VIN|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
