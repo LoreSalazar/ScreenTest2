@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=USB_P Pin=U8-1
+Removed Pin From Net: NetName=USB_N Pin=U8-3
+Removed Pin From Net: NetName=VBUS Pin=U8-5
+Change Component Description : Designator=J3 Old Description=Conn Rect FPC/FFC 40Cnt SMT OPUSeries ZIF 0.5mmPitch RtAngle New Description=Conn Rect FPC/FFC 40Cnt SMT OPUSeries ZIF 0.5mmPitch RtAngle | Amphenol FCI (Amphenol CS) 62684-402100ALF
+Added Pin To Net: NetName=USB_P Pin=J1-A6
+Added Pin To Net: NetName=USB_N Pin=J1-A7
+Added Pin To Net: NetName=USB_P Pin=J1-B6
+Added Pin To Net: NetName=USB_N Pin=J1-B7
+Added Member To Class: ClassName=U_[1] ESP32-S3 Member=Component C18 1uF
+Added Member To Class: ClassName=U_[1] ESP32-S3 Member=Component D2 Led 0402
+Added Member To Class: ClassName=U_[1] ESP32-S3 Member=Component D3 Led 0402
+Added Member To Class: ClassName=U_[1] ESP32-S3 Member=Component R29 220
+Added Member To Class: ClassName=U_[1] ESP32-S3 Member=Component R30 220
+Added Room: Name=U_[1] ESP32-S3
+Added Room: Name=U_[3] Voltage Converters
+Added Room: Name=U_[4] Temperature_Sensor

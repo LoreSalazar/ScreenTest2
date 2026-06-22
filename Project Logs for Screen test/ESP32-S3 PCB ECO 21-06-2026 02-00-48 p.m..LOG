@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=USB_N Pin=R7-1
+Removed Pin From Net: NetName=USB_P Pin=R8-1
+Removed Member From Class: ClassName=U_[1] ESP32-S3 Member=R7
+Removed Member From Class: ClassName=U_[1] ESP32-S3 Member=R8
+Added Pin To Net: NetName=USB_N Pin=U1-25
+Added Pin To Net: NetName=USB_P Pin=U1-26

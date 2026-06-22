@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=USB_N Pin=U1-25
+Removed Pin From Net: NetName=USB_P Pin=U1-26
+Added Component: Designator=R7(Resistencia 0402)
+Added Component: Designator=R8(Resistencia 0402)
+Added Pin To Net: NetName=USB_N Pin=R7-2
+Added Pin To Net: NetName=USB_P Pin=R8-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U1-25
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U1-26
+Added Net: Name=NetR8_1
+Added Member To Class: ClassName=U_[1] ESP32-S3 Member=Component R7 22
+Added Member To Class: ClassName=U_[1] ESP32-S3 Member=Component R8 22
+Added Room: Name=U_[1] ESP32-S3
+Added Room: Name=U_[3] Voltage Converters
+Added Room: Name=U_[4] Temperature_Sensor

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VIN Pin=D5-1
+Added Room: Name=U_[1] ESP32-S3
+Added Room: Name=U_[3] Voltage Converters
+Added Room: Name=U_[4] Temperature_Sensor

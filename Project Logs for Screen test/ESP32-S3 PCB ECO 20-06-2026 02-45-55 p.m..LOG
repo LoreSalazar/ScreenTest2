@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=U1-58
+Removed Pin From Net: NetName=GND Pin=U1-59
+Removed Pin From Net: NetName=GND Pin=U1-60
+Removed Pin From Net: NetName=GND Pin=U1-61
+Removed Pin From Net: NetName=GND Pin=U1-62
+Removed Pin From Net: NetName=GND Pin=U1-63
+Removed Pin From Net: NetName=GND Pin=U1-64
+Removed Pin From Net: NetName=GND Pin=U1-65
+Removed Pin From Net: NetName=GND Pin=U1-66
+Removed Pin From Net: NetName=GND Pin=U1-67
+Removed Pin From Net: NetName=GND Pin=U1-68
+Removed Pin From Net: NetName=GND Pin=U1-69
+Removed Pin From Net: NetName=USB_P Pin=U8-1
+Removed Pin From Net: NetName=USB_N Pin=U8-3
+Added Pin To Net: NetName=USB_N Pin=U8-1
+Added Pin To Net: NetName=USB_P Pin=U8-3
+Added Room: Name=U_[1] ESP32-S3
+Added Room: Name=U_[3] Voltage Converters
+Added Room: Name=U_[4] Temperature_Sensor

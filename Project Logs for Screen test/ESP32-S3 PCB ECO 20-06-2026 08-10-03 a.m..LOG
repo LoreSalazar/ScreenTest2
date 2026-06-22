@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=NetC15_2 Pin=J1-A4_B9
+Change Component Description : Designator=J3 Old Description=Conn Rect FPC/FFC 40Cnt SMT OPUSeries ZIF 0.5mmPitch RtAngle New Description=Conn Rect FPC/FFC 40Cnt SMT OPUSeries ZIF 0.5mmPitch RtAngle | Amphenol FCI (Amphenol CS) 62684-402100ALF
+Added Component: Designator=C32(Capacitor 0402)
+Added Component: Designator=D2(TVS_SOD2_DYF_TEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSD05DYFR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=D3(TVS_SOD2_DYF_TEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSD05DYFR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=D4(TVS_SOD2_DYF_TEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSD05DYFR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SOD-323HEUS2H_TOS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba Electronic Devices & Storage Corp."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CUHZ16V,H3F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=NetC15_2 Pin=C32-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=USB_N Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=USB_P Pin=D3-2
+Added Pin To Net: NetName=NetC15_2 Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=J1-A4_B9
+Added Net: Name=NetD4_2
+Added Member To Class: ClassName=U_[1] ESP32-S3 Member=Component C32 100nF
+Added Member To Class: ClassName=U_[1] ESP32-S3 Member=Component D2 TSD05DYFR
+Added Member To Class: ClassName=U_[1] ESP32-S3 Member=Component D3 TSD05DYFR
+Added Member To Class: ClassName=U_[1] ESP32-S3 Member=Component D4 TSD05DYFR
+Added Member To Class: ClassName=U_[3] Voltage Converters Member=Component D5 CUHZ16V,H3F
+Added Member To Class: ClassName=U_[2] Led_Driver Member=Component R21 10K
+Added Room: Name=U_[1] ESP32-S3
+Added Room: Name=U_[3] Voltage Converters
+Added Room: Name=U_[4] Temperature_Sensor

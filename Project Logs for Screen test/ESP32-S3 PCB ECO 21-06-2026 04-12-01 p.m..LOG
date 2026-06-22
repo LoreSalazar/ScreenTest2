@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=USB_P Pin=U8-1
+Removed Pin From Net: NetName=USB_N Pin=U8-3
+Removed Pin From Net: NetName=NetJ1_A7 Pin=U8-4
+Removed Pin From Net: NetName=NetJ1_A6 Pin=U8-6
+Added Pin To Net: NetName=USB_N Pin=U8-1
+Added Pin To Net: NetName=USB_P Pin=U8-3
+Added Pin To Net: NetName=NetJ1_A6 Pin=U8-4
+Added Pin To Net: NetName=NetJ1_A7 Pin=U8-6
+Added Room: Name=U_[1] ESP32-S3
+Added Room: Name=U_[3] Voltage Converters
+Added Room: Name=U_[4] Temperature_Sensor
