@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=FB Pin=R27-1
+Removed Pin From Net: NetName=FB Pin=R28-2
+Removed Pin From Net: NetName=GND Pin=U1-58
+Removed Pin From Net: NetName=GND Pin=U1-59
+Removed Pin From Net: NetName=GND Pin=U1-60
+Removed Pin From Net: NetName=GND Pin=U1-61
+Removed Pin From Net: NetName=GND Pin=U1-62
+Removed Pin From Net: NetName=GND Pin=U1-63
+Removed Pin From Net: NetName=GND Pin=U1-64
+Removed Pin From Net: NetName=GND Pin=U1-65
+Removed Pin From Net: NetName=GND Pin=U1-66
+Removed Pin From Net: NetName=GND Pin=U1-67
+Removed Pin From Net: NetName=GND Pin=U1-68
+Removed Pin From Net: NetName=GND Pin=U1-69
+Removed Pin From Net: NetName=FB Pin=U6-2
+Change Component Description : Designator=J3 Old Description=Conn Rect FPC/FFC 40Cnt SMT OPUSeries ZIF 0.5mmPitch RtAngle New Description=Conn Rect FPC/FFC 40Cnt SMT OPUSeries ZIF 0.5mmPitch RtAngle | Amphenol FCI (Amphenol CS) 62684-402100ALF
+Added Pin To Net: NetName=FB2 Pin=R27-1
+Added Pin To Net: NetName=FB2 Pin=R28-2
+Added Pin To Net: NetName=FB2 Pin=U6-2
+Added Net: Name=FB2
+Added Room: Name=U_[1] ESP32-S3
+Added Room: Name=U_[3] Voltage Converters
+Added Room: Name=U_[4] Temperature_Sensor
