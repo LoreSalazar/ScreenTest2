@@ -1,0 +1,1 @@
+This project is a development PCB designed for prototyping embedded applications with a 4.3-inch display. The board integrates a temperature and humidity sensor, a USB Type-C interface for programming and debugging, external PSRAM, and Flash memory, providing a flexible platform for embedded system development and testing.
